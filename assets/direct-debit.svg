@@ -1,0 +1,20 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="80">
+<circle cx="40" cy="40" r="40" fill="#00E595"/>
+</mask>
+<g mask="url(#mask0)">
+<circle cx="40" cy="40" r="40" fill="#00E595"/>
+<path d="M67.5341 31.8568L60.9213 32.44L60.9213 82.87L16.7426 82.87L16.7426 32.44L10.1298 31.8568L38.8319 15.3248L67.5341 31.8568Z" fill="url(#paint0_linear)"/>
+<path d="M60.9213 53.3182L60.9213 78.8248L38.832 91.5781L16.7426 78.8248L16.7426 53.3182L38.832 40.5649L60.9213 53.3182Z" fill="url(#paint1_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="69.5772" y1="37.7234" x2="10.4021" y2="71.8881" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B3FFE4"/>
+<stop offset="1" stop-color="#B3FFE4" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="60.9213" y1="53.3182" x2="16.7426" y2="78.8248" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CCFFED"/>
+<stop offset="1" stop-color="#CCFFED" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
